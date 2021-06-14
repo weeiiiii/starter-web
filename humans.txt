@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jung Jaechan	jungjaechan@git.training	@onejungjaechan
 
 # THANKS
 
